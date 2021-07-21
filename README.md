@@ -28,7 +28,7 @@
 ## Module - 1
 
 ### Introduction to flutter 
-- Look arroung on flutter 
+- Look around on flutter 
 - What is Flutter ?
 - Why learn flutter ?
 
@@ -38,16 +38,16 @@
 ### Introduction to dart
 - Hello world 
 - Vriables 
-- Cntrol flow statement 
-- Fnctions
+- Control flow statement 
+- Functions
 - Comments
-- Iports 
+- Imports 
 - Casses 
 - Iheritence
 - Mixins
-- Itefaces and abstract classes 
+- Intefaces and abstract classes 
 - Async
-- Eceptions
+- Exceptions
 
 <a name="module-3"/>
 
