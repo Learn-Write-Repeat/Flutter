@@ -40,7 +40,7 @@
 - Vriables 
 - Cntrol flow statement 
 - Fnctions
-- Cmments
+- Comments
 - Iports 
 - Casses 
 - Iheritence
