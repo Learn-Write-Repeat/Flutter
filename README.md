@@ -37,7 +37,7 @@
 ## Module - 2
 ### Introduction to dart
 - Hello world 
-- Vriables 
+- Variables 
 - Control flow statement 
 - Functions
 - Comments
@@ -53,14 +53,14 @@
 
 ## Module - 3
 ### Installation
-- Install for Wndows 
+- Install for Windows 
 - Istall for Mac
 - Istall for Linux 
 
 ### Stup Editor
-- install Android studio  or visual Studio 
-- to insall Vscode 
-- to insall Android studio
+- Install Android studio  or visual Studio 
+- To install Vscode 
+- To install Android studio
 
 ### Create the first  app
 - Run the app
