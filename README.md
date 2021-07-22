@@ -54,8 +54,8 @@
 ## Module - 3
 ### Installation
 - Install for Windows 
-- Istall for Mac
-- Istall for Linux 
+- Install for Mac
+- Install for Linux 
 
 ### Stup Editor
 - Install Android studio  or visual Studio 
