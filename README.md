@@ -43,7 +43,7 @@
 - Comments
 - Imports 
 - Casses 
-- Iheritence
+- Ineritence
 - Mixins
 - Intefaces and abstract classes 
 - Async
