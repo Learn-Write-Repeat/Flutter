@@ -82,7 +82,7 @@
 
 ## Module - 5
 ### flutter basics
-- introduction to widgets
+- Introduction to widgets
 - Hello world
 - Basic widgets
 - Using Material Components
