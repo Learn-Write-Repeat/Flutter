@@ -71,12 +71,12 @@
 ## Module - 4
 ### Build your First app part -1 
 - Introduction
-- Set up enivroment 
+- Set up environment  
 - Create app 
 - Use external package
 - Add stateful widget
 - Infinite scrolling list view
-- Video refernce 
+- Video reference  
 
 <a name="module-5"/>
 
@@ -94,7 +94,7 @@
 ## Module - 6
 ### Layouts
 - Layouts in Flutter
-- Lay out a widget
+- Layout a widget
 - Building layouts
 
 <a name="module-7"/>
@@ -108,7 +108,7 @@
 
 ## Module - 8
 ### Build Your First Flutter App, part 2
-- Intorduction 
+- Introduction 
 - Set up environment
 - Get started
 - Add icons to the list
