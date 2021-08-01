@@ -57,7 +57,7 @@
 - Install for Mac
 - Install for Linux 
 
-### Stup Editor
+### Setup Editor
 - Install Android studio  or visual Studio 
 - To install Vscode 
 - To install Android studio
